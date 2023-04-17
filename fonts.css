@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Pacifico&display=swap');
+body{
+	background-color: lightpink;
+}
+p{
+	font-size: 50px;
+
+}
+.first{
+	font-family: 'Amatic SC', cursive;
+	color: purple;
+}
+.second{
+	font-family: 'Merriweather', serif;
+	color: blue;
+}
+.third{
+	font-family: "Arial", cursive;
+	color: red;
+}

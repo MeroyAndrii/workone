@@ -1,0 +1,57 @@
+body{
+	background-color: pink;
+}
+p{
+	font-size: 50px;
+	color: darkred;
+	background-color: hotpink;
+}
+.ex1{
+	font-family: Arial, Helvetica, sans-serif;
+	
+}
+.ex2{
+	font-family: cursive;
+	font-weight: 900;
+}
+.ex3{
+font-family: 'Lobster', cursive;
+font-variant: small-caps;
+}
+.ex4{
+font-family: 'Marck Script', cursive;
+background-color: orangered;
+color: darkred;
+}
+.ex5{
+font-family: 'Shantell Sans', cursive;
+color: purple;
+background-color: deeppink;	
+}
+.ex6{
+	text-shadow: 0 0 10px blue;
+}
+.ex7{
+	text-shadow: 3px -3px blue;
+	text-transform: uppercase;
+	letter-spacing: 5px;
+}
+.ex8{
+	text-shadow: 1px 1px 2px black, 0 0 1em blue, 0 0 0.2em blue;
+	color: white;
+	font: 2.5em Georgia, serif;
+	background-color: pink;
+}
+.ex9{
+	text-decoration: underline;
+	text-decoration-style: wavy;
+	text-underline-position: under;
+	text-decoration-color: orange;
+	height: 100px;
+}
+.fl{
+	font-size: 2em;
+	color: yellow;
+	font-family: 'Marck Script', cursive;
+	text-shadow: 5px -5px maroon;
+}
